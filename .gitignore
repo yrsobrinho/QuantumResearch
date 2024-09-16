@@ -1,2 +1,7 @@
 
 /INbreast/data
+/Classic/data/INbreast/dicom
+*.xml
+*.png
+*.dcm
+*.dicom
