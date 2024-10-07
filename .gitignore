@@ -5,3 +5,5 @@
 *.png
 *.dcm
 *.dicom
+*.pth
+quantumWSL
